@@ -1,0 +1,28 @@
+.form_style input{
+    padding: 10px;
+    margin: 20px;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+.form_style button{
+    background-color: lightskyblue;
+    color: black;
+    border: 1px solid gray;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 80;
+    border-radius: 7px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.form_style button:hover{
+    background-color: white;
+    color: lightskyblue;
+}
+
+.form_style input:focus {
+    outline: none;
+    border-color: green;
+  }

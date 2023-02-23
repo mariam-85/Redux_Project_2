@@ -1,0 +1,18 @@
+.posts_cards{
+    border: 2px solid gray;
+    background-color: lightcyan;
+    border-radius: 15px;
+    padding: 10px;
+    width: 200px;
+    height: 120px;
+    margin: 30px;
+
+    position: relative;
+}
+
+.cross_icon{
+    position: absolute;
+    right: 15px;
+    top: 10px;
+    cursor: pointer;
+}
